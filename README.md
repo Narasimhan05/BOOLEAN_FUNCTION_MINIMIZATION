@@ -65,7 +65,7 @@ Register Number:212223230133
 ![image](https://github.com/Narasimhan05/BOOLEAN_FUNCTION_MINIMIZATION/assets/132819871/fb6bf7d0-777f-4398-b7de-60bb400c599a)
 
 **Output:**
-![image](https://github.com/Narasimhan05/BOOLEAN_FUNCTION_MINIMIZATION/assets/132819871/8e49c421-4121-4701-b665-093c0acdd52b)
+![image](https://github.com/Narasimhan05/BOOLEAN_FUNCTION_MINIMIZATION/assets/132819871/2507613b-ab24-48a5-a8d6-df0e6a32932b)
 
 ### Result:
 
