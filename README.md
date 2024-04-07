@@ -61,17 +61,13 @@ Register Number:212223230133
 ![Screenshot 2024-04-07 210020](https://github.com/Narasimhan05/BOOLEAN_FUNCTION_MINIMIZATION/assets/132819871/83997615-4dda-4349-84dc-635556d820da)
 ![image](https://github.com/Narasimhan05/BOOLEAN_FUNCTION_MINIMIZATION/assets/132819871/fdd19215-d235-4a94-8ce3-4686e05e9524)
 
-**RTL realization**
+### RTL realization
 ![image](https://github.com/Narasimhan05/BOOLEAN_FUNCTION_MINIMIZATION/assets/132819871/fb6bf7d0-777f-4398-b7de-60bb400c599a)
 
 **Output:**
 ![image](https://github.com/Narasimhan05/BOOLEAN_FUNCTION_MINIMIZATION/assets/132819871/8e49c421-4121-4701-b665-093c0acdd52b)
 
-**RTL**
-
-**Timing Diagram**
-
-**Result:**
+### Result:
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
